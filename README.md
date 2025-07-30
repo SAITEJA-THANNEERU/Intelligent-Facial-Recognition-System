@@ -1,1 +1,1 @@
-➢ Intelligent Facial Recognition System (Python, OpenCV)
+Intelligent Facial Recognition System (Python, OpenCV)
